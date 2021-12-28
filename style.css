@@ -1,0 +1,72 @@
+body{
+    background-color: greenyellow;
+}
+#main{
+    background-color: wheat;
+    width: 350px;
+    min-height: 450px;
+    margin: 50px auto;
+    box-shadow: 3px 3px 10px 10px gray;
+}
+.firstId{
+    width: 60%;
+
+}
+.secondId{
+    width: 20%;
+}
+.thirdId{
+    width: 20%;
+}
+#table{
+    width: 100%;
+}
+#content{
+    width: 310px;
+    height: 250px;
+    padding: 0px 0px;
+    margin: 10px 17px;
+    overflow: auto;
+}
+#heading{
+    text-align: center;
+    padding: 15px 10px 0px 10px;
+    color: black;
+}
+#item{
+    width: 90%;
+    height: 40px;
+    font-size: 32px;
+    color: black;
+    box-sizing: border-box;
+    margin: 0px 17px;
+    outline-color: aqua;
+}
+
+.addBtn{
+    padding: 10px 20px;
+    margin-left: 17px;
+    margin-top: 10px;
+    width: 155px;
+
+}
+.delAllBtn{
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+    width: 155px;
+
+}
+
+.editbtn{
+    color: white;
+    background-color: black;
+
+}
+.delbtn{
+    color: white;
+    background-color: red;
+
+
+
+}
